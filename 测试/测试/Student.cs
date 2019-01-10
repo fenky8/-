@@ -9,5 +9,6 @@ namespace 测试
     class Student
     {
         public int ID { get; set; }
+        public string Name1 { get; set; }
     }
 }
